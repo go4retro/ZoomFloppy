@@ -1,0 +1,38 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "ZoomFloppy.brd" as of: 2/8/2012 10:52:04 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,1.250,2.950,0
+C2,Top,1.250,2.450,0
+C3,Bottom,0.500,2.850,90
+C4,Bottom,1.100,3.350,90
+C5,Bottom,0.550,2.850,90
+C6,Bottom,0.713,2.987,0
+C7,Bottom,0.450,2.600,0
+ESD1,Top,0.450,2.600,90
+ESD2,Top,0.450,2.850,270
+IC1,Bottom,0.775,2.700,270
+IC2,Top,1.200,3.400,90
+JP1,Bottom,0.550,2.112,270
+JP2,Bottom,0.650,2.112,270
+LED1,Top,0.100,4.100,0
+Q1,Top,1.050,2.700,270
+R2,Top,0.450,2.750,180
+R3,Top,0.450,2.700,180
+R4,Bottom,0.700,2.388,90
+R5,Bottom,1.200,2.612,90
+R6,Bottom,1.200,2.825,270
+R7,Bottom,0.894,3.075,270
+R8,Bottom,0.850,3.075,270
+R9,Top,0.200,3.950,270
+R10,Top,1.750,3.350,0
+R11,Top,1.750,3.450,0
+R12,Top,0.900,3.300,180
+R13,Top,0.900,3.400,180
+R14,Top,1.425,3.250,0
+R15,Top,0.900,3.500,180
+X1,Top,0.200,2.725,0
+X8,Top,1.538,0.225,0
