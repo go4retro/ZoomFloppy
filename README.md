@@ -20,7 +20,7 @@ Here’s a talk I gave on ZoomFloppy at the 2011 World of Commodore Expo: https:
 
 ZoomFloppy comprises a circuit board containing an Atmel ATMEGA32U2  microcontroller and support circuitry. The ZoomFloppy interface  includes on board ports for IEC-based disk drives, connectors for the  various Commodore drive parallel cabling systems, and IEEE-488  connectors for future expansion capabilities. The entire unit can be  installed in a standard Hammond plastic enclosure for a truly  professional look. A mini-USB port provides power and PC connectivity.
 
-The [ZoomFloppy Schematic and PCB](http://www.go4retro.com/downloads/ZoomFloppy/ZoomFloppy_PCB_v1.0.zip) are released under GPL v2 in both EAGLE CAD and high resolution PNG file formats.
+The [ZoomFloppy Schematic and PCB](https://github.com/go4retro/ZoomFloppy) are released under GPL v2 in both EAGLE CAD and high resolution PNG file formats.
 
 ## Requirements
 
@@ -42,27 +42,27 @@ ZoomFloppy can be purchased at the [RETRO Innovations online store](http://store
 
 ### How is the Zoom Floppy different then the XU1541?
 
-- Faster
+- Performance
 
-- 25-second backup without optimizing (parallel transfer, needs cable in drive).
-- Still faster even for serial xfers.
-- Nibble protected disks
+  - 25-second backup without optimizing (parallel transfer, needs cable in drive).
+  - Still faster even for serial xfers.
+- Functionality
 
-- supports Burst Nibbler protocol via nibtools. Allows raw g64 backups (read and write). Works with vmax/epyx etc etc.
-- More reliable
+  - supports Burst Nibbler protocol via nibtools. Allows raw g64 backups (read and write). Works with vmax/epyx etc etc.
+- Reliability
 
--  interrupt xfers in the middle (^C), start another transfer, and everything gets reset and restarted properly
--  Supports infinite holdoff 
--  Cheap
+  -  interrupt xfers in the middle (^C), start another transfer, and everything gets reset and restarted properly
+  -  Supports infinite holdoff 
+- Cost
 
-- currently $35 USD
+  - currently $35 USD
 - IEEE-488 Support
 
--  ZoomFloppy is one of a few solutions for USB access to the IEE-488 drives, and the only one that understands PET/CBM IEEE commands.
+  -  ZoomFloppy is one of a few solutions for USB access to the IEE-488 drives, and the only one that understands PET/CBM IEEE commands.
 - Future Expansion
 
-- All signals are available on the X5 Expansion Port.
--  only 7 KB used out of 32 KB FLASH on microcontroller
+  - All signals are available on the X5 Expansion Port.
+  -  only 7 KB used out of 32 KB FLASH on microcontroller
 
 ### Can I use the ZoomFloppy to copy D64 images to real disks?
 
