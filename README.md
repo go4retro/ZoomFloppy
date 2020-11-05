@@ -1,6 +1,6 @@
 # ZoomFloppy
 
-[![ZoomFloppy PCB (Assembled)](http://www.go4retro.com/wp-content/uploads/2010/12/IMG_2118-Large-223x300.jpg)](http://www.go4retro.com/wp-content/uploads/2010/12/IMG_2118-Large.jpg)ZoomFloppy PCB (Assembled)
+[![ZoomFloppy PCB (Assembled)](http://www.go4retro.com/wp-content/uploads/2010/12/IMG_2118-Large-223x300.jpg)](http://www.go4retro.com/wp-content/uploads/2010/12/IMG_2118-Large.jpg)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ ZoomFloppy brings Commodore disk archival into the 21st  Century, bridging the g
 
 Designed by Commodore enthusiast Nate Lawson, ZoomFloppy utilizes the ubiquitous [OpenCBM](http://sourceforge.net/projects/opencbm/) Commodore device access libraries and application utilities for  operation. In addition, applications like the VICE Emulator that include OpenCBM support will work with ZoomFloppy as well. Use ZoomFloppy and  VICE to access actual Commodore IEC-based serial devices like the  VIC-1541 disk drive or IEEE-488 based devices like the CBM 8050 from  your emulator!
 
-ZoomFloppy can be used with any OpenCBM supported operating system,  including Unix/Linux/*BSD systems, Macintosh OS X machines, as well as  Microsoft Windows XP, Windows Vista, Windows 7, and Windows 10. OpenCBM developer  Spiro Trikaliotis has provided a convenient installation [manual](http://opencbm.trikaliotis.net/opencbm-8.html) for multi-platform installation. 
+ZoomFloppy works in conjunction with the feature-rich OpenCBM media archiving suite maintained and supported by a team led by Spiro Trikaliotis. The open source OpenCBM  software supports Unix/Linux/*BSD systems, Macintosh OS X machines, as well as  Microsoft Windows XP, Windows Vista, Windows 7, and Windows 10.  Spiro Trikaliotis has provided a convenient installation [manual](http://opencbm.trikaliotis.net/opencbm-8.html) for multi-platform installation. 
 
 ZoomFloppy offers unparalleled performance and robustness for the  serious Commodore enthusiast. Archive data while playing games, writing letters, or listening to videos without any loss of data fidelity.  Designed for the sometimes demanding nature of today’s applications,  ZoomFloppy handles such requirements with ease. ZoomFloppy will find a  cherished home in your Commodore computer setup.
 
@@ -20,7 +20,7 @@ Here’s a talk I gave on ZoomFloppy at the 2011 World of Commodore Expo: https:
 
 ZoomFloppy comprises a circuit board containing an Atmel ATMEGA32U2  microcontroller and support circuitry. The ZoomFloppy interface  includes on board ports for IEC-based disk drives, connectors for the  various Commodore drive parallel cabling systems, and IEEE-488  connectors for future expansion capabilities. The entire unit can be  installed in a standard Hammond plastic enclosure for a truly  professional look. A mini-USB port provides power and PC connectivity.
 
-The [ZoomFloppy Schematic and PCB](https://github.com/go4retro/ZoomFloppy) are released under GPL v2 in both EAGLE CAD and high resolution PNG file formats.
+The [ZoomFloppy Schematic and PCB](https://github.com/go4retro/ZoomFloppy) are released under a Creative Commons Share Alike v4.0 license in both EAGLE CAD and high resolution PNG file formats.
 
 ## Requirements
 
