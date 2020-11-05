@@ -30,7 +30,7 @@ The [ZoomFloppy Schematic and PCB](https://github.com/go4retro/ZoomFloppy) are r
 
 ## Support
 
-Users can ask questions and discuss their units on the [ZoomFloppy Users](http://groups.google.com/group/zoomfloppy-users) web forum/mailing list, while obtaining more information on software usage via the [OpenCBM]("http://www.google.com/url?sa=t&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fsourceforge.net%2Fmailarchive%2Fforum.php%3Fforum_name%3Dopencbm-user&rct=j&q=OpenCBM mailing list&ei=PioxTaiILsOC8gaP_JySCQ&usg=AFQjCNGlR3aicpQ-CuwXIOeiP2u_3X8Rmg&sig2=Rk0b3CW-eDP5HwQT3dLldw&cad=rja") mailing list.
+Users can ask questions and discuss their units on the [ZoomFloppy Users](http://groups.google.com/group/zoomfloppy-users) web forum/mailing list, while obtaining more information on software usage via the [OpenCBM](https://sourceforge.net/p/opencbm/mailman/opencbm-user/) mailing list.
 
 Units come with a 30 days return policy and 1 year warranty.
 
